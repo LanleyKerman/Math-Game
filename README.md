@@ -1,6 +1,6 @@
 # Welcome to my project: Math Game.
 
-Math game is where the user tries to find the sum, difference, product, quotient, or square of 2 numbers.
+Math game is where the user tries to find the sum, difference, product, quotient, or square of a number.
 
 # How is this possible?
 
